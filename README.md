@@ -1,5 +1,7 @@
 # per_proj
 ## Individual Notebook
+91339903     
+Yuxin Chen       
 personal project record of NLPbrl          
 
 ### 2023-01-19
