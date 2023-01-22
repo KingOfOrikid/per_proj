@@ -16,3 +16,8 @@ Happy Chinese New Year
 ### 2023-01-21
 1. Wrote code to test how to retrieve API data.           
 2. Identified the API functions that need to be used in the NLPbrl wrapped package.     
+
+### 2023-01-22
+1. Established the data retrieve class to get data from API, and wrote three retrieve functions.
+2. Collated data on stopwords.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/e20876663b8ce06c269441629570cf7306bf17ad
