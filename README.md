@@ -21,3 +21,7 @@ Happy Chinese New Year
 1. Established the data retrieve class to get data from API, and wrote three retrieve functions.
 2. Collated data on stopwords.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/e20876663b8ce06c269441629570cf7306bf17ad
+
+### 2023-01-23
+1. Compeled the word viz function in data process part.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/2f631ff30d5fd4924f27699f10c332d101ba50e7
