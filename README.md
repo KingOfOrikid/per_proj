@@ -25,3 +25,7 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/e20876663b8ce06c26944
 ### 2023-01-23
 1. Compeled the word viz function in data process part.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/2f631ff30d5fd4924f27699f10c332d101ba50e7
+
+### 2023-01-24
+1. Consolidation of duplicate code blocks in some functions, updated as new functions.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/d682a55033669692f8f454af429320e074ba0a2c
