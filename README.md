@@ -29,3 +29,7 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/2f631ff30d5fd4924f276
 ### 2023-01-24
 1. Consolidation of duplicate code blocks in some functions, updated as new functions.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/d682a55033669692f8f454af429320e074ba0a2c
+
+### 2023-01-25
+1. Added TFIDF function for the package.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/667784ddf61030193cca5d469fc7d9c744ae5fb9
