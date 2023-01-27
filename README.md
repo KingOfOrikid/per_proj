@@ -33,3 +33,7 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/d682a55033669692f8f45
 ### 2023-01-25
 1. Added TFIDF function for the package.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/667784ddf61030193cca5d469fc7d9c744ae5fb9
+
+### 2023-01-26
+1. Added the part of using word embedding to calculate similarity.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/da1637ab9873e81dd19439cba255221ede37e071
