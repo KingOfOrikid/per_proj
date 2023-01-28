@@ -37,3 +37,6 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/667784ddf61030193cca5
 ### 2023-01-26
 1. Added the part of using word embedding to calculate similarity.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/da1637ab9873e81dd19439cba255221ede37e071
+
+### 2023-01-27
+1. Busy with using SSH to connect the AWS instance.
