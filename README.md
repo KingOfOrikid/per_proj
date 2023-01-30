@@ -40,3 +40,7 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/da1637ab9873e81dd1943
 
 ### 2023-01-27
 1. Busy with using SSH to connect the AWS instance.
+
+### 2023-01-29
+1. Added the function of tagging sentences.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/50fc27872d2f9486e0469def46c646a81cfe2ef4
