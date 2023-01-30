@@ -44,3 +44,8 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/da1637ab9873e81dd1943
 ### 2023-01-29
 1. Added the function of tagging sentences.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/50fc27872d2f9486e0469def46c646a81cfe2ef4
+
+### 2023-01-30
+1. Added the function of textRank.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/5eb3af42e10d3220e061647e75f6f5ea1fdc7e61
+
