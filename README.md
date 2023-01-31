@@ -49,3 +49,6 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/50fc27872d2f9486e0469
 1. Added the function of textRank.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/5eb3af42e10d3220e061647e75f6f5ea1fdc7e61
 
+### 2023-01-31
+1. Added the function of get relation in data retrieve file.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/914bd5d8f8c322bb942466f2895fcfecb7ebd50c
