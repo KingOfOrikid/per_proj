@@ -52,3 +52,7 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/5eb3af42e10d3220e0616
 ### 2023-01-31
 1. Added the function of get relation in data retrieve file.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/914bd5d8f8c322bb942466f2895fcfecb7ebd50c
+
+### 2023-02-01
+1. Added py file of the package.           
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/298c02f48db46ff781af486421f849cc18bfd325
