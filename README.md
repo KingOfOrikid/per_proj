@@ -58,9 +58,9 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/914bd5d8f8c322bb94246
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/298c02f48db46ff781af486421f849cc18bfd325
 
 ### 2023-02-04
-1. Added License file.
+1. Added License file.          
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/fa1d6e787e1aed653eaeec78df3a4048fbaa852c
-2. Uploaded the coverage report of Test files.
+2. Uploaded the coverage report of Test files.             
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/6686b8dc9a6d7186ac036b96badf6fb07b550439
-3. Updated the package code.
+3. Updated the package code.            
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/31ccd4ed8b12778c00a7b8ac074cb255bba1a4ef
