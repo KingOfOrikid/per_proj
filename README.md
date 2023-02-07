@@ -71,3 +71,10 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/6193da58e0b0ffb47d85a
 2. Uploaded package into Pypi.     
 3. Some modifies on pacakge codes.     
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/c0fa0a673a16b5b9ba6e2cda1c919f04339b3af8
+
+### 2023-02-06
+Many many many updates.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/ed36e2ab91db714d68fcf1da78c888056bd59c8d
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/94a27a213abfd84e991b72b2094b0a18809122ec
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f75c8a8451181319248596cc4308f1e2843be82f
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/90edacde3aa786570ea6847b892dc10a23541a61
